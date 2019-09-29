@@ -1,0 +1,14 @@
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\bin\Release\netcoreapp2.2\TESApi.deps.json
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\bin\Release\netcoreapp2.2\TESApi.runtimeconfig.json
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\bin\Release\netcoreapp2.2\TESApi.runtimeconfig.dev.json
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\bin\Release\netcoreapp2.2\TESApi.dll
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\bin\Release\netcoreapp2.2\TESApi.pdb
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\obj\Release\netcoreapp2.2\TESApi.csprojAssemblyReference.cache
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\obj\Release\netcoreapp2.2\TESApi.csproj.CoreCompileInputs.cache
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\obj\Release\netcoreapp2.2\TESApi.RazorAssemblyInfo.cache
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\obj\Release\netcoreapp2.2\TESApi.RazorAssemblyInfo.cs
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\obj\Release\netcoreapp2.2\TESApi.AssemblyInfoInputs.cache
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\obj\Release\netcoreapp2.2\TESApi.AssemblyInfo.cs
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\obj\Release\netcoreapp2.2\TESApi.RazorTargetAssemblyInfo.cache
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\obj\Release\netcoreapp2.2\TESApi.dll
+D:\CSharp\Web api\Teacher-evaluation-System-api\TESApi\TESApi\obj\Release\netcoreapp2.2\TESApi.pdb
